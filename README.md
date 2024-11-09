@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...anuskadatta06@gmail.com
 - 😄 Pronouns: ...she/her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...You can't beat me on competitive coding.
 
 <!---
 anuskadatta06/anuskadatta06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
